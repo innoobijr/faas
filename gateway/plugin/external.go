@@ -15,9 +15,9 @@ import (
 	"strconv"
 	"time"
 
-	types "github.com/openfaas/faas-provider/types"
-	middleware "github.com/openfaas/faas/gateway/pkg/middleware"
-	"github.com/openfaas/faas/gateway/scaling"
+	types "github.com/innoobijr/faas-provider/types"
+	middleware "github.com/innoobijr/faas/gateway/pkg/middleware"
+	"github.com/innoobijr/faas/gateway/scaling"
 )
 
 // ExternalServiceQuery proxies service queries to external plugin via HTTP

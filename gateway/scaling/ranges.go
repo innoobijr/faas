@@ -6,7 +6,7 @@ import (
 	"io"
 	"net/http"
 
-	"github.com/openfaas/faas-provider/types"
+	"github.com/innoobijr/faas-provider/types"
 )
 
 const (

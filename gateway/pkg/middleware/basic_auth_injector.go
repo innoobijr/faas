@@ -6,7 +6,7 @@ package middleware
 import (
 	"net/http"
 
-	"github.com/openfaas/faas-provider/auth"
+	"github.com/innoobijr/faas-provider/auth"
 )
 
 type BasicAuthInjector struct {

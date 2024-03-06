@@ -1,7 +1,7 @@
 ## OpenFaaS &reg; - Serverless Functions Made Simple
 
-[![Build Status](https://github.com/openfaas/faas/actions/workflows/build.yml/badge.svg)](https://github.com/openfaas/faas/actions/workflows/build.yml)
-[![go.dev reference](https://img.shields.io/badge/go.dev-reference-007d9c?logo=go&logoColor=white&style=flat-square)](https://pkg.go.dev/github.com/openfaas/faas)
+[![Build Status](https://github.com/innoobijr/faas/actions/workflows/build.yml/badge.svg)](https://github.com/innoobijr/faas/actions/workflows/build.yml)
+[![go.dev reference](https://img.shields.io/badge/go.dev-reference-007d9c?logo=go&logoColor=white&style=flat-square)](https://pkg.go.dev/github.com/innoobijr/faas)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![OpenFaaS](https://img.shields.io/badge/openfaas-serverless-blue.svg)](https://www.openfaas.com)
 [![Derek App](https://alexellis.o6s.io/badge?owner=openfaas&repo=faas)](https://github.com/alexellis/derek/)
@@ -17,8 +17,8 @@ OpenFaaS&reg; makes it easy for developers to deploy event-driven functions and 
 * Ease of use through UI portal and *one-click* install
 * Write services and functions in any language with [Template Store](https://www.openfaas.com/blog/template-store/) or a Dockerfile
 * Build and ship your code in an OCI-compatible/Docker image
-* Portable: runs on existing hardware or public/private cloud by leveraging [Kubernetes](https://github.com/openfaas/faas-netes)
-* [CLI](http://github.com/openfaas/faas-cli) available with YAML format for templating and defining functions
+* Portable: runs on existing hardware or public/private cloud by leveraging [Kubernetes](https://github.com/innoobijr/faas-netes)
+* [CLI](http://github.com/innoobijr/faas-cli) available with YAML format for templating and defining functions
 * Auto-scales as demand increases [including to zero](https://docs.openfaas.com/architecture/autoscaling/)
 * [Commercially supported Pro distribution by the team behind OpenFaaS](https://openfaas.com/pricing/)
 
@@ -151,7 +151,7 @@ Deploy OpenFaaS to Kubernetes, OpenShift, or faasd now with a [deployment guide]
 
 Have you written a blog about OpenFaaS? Do you have a speaking event? Send a Pull Request to the community page below.
 
-* [Read blogs/articles and find events about OpenFaaS](https://github.com/openfaas/faas/blob/master/community.md)
+* [Read blogs/articles and find events about OpenFaaS](https://github.com/innoobijr/faas/blob/master/community.md)
 
 ### Contributing
 
@@ -200,7 +200,7 @@ An alternative community dashboard is [available here](https://grafana.com/dashb
 
   Looking for statistics? This project does not use a mono-repo, but is split across several components. Use [Ken Fukuyama's dashboard](https://kenfdev.o6s.io/github-stats-page) to gather accurate counts on contributors, stars and forks across the [GitHub organisation](https://github.com/openfaas).
 
-  > Note: any statistics you gather about the openfaas/faas repository will be invalid, the faas repo is not representative of the project's activity.
+  > Note: any statistics you gather about the innoobijr/faas repository will be invalid, the faas repo is not representative of the project's activity.
 
 ### Governance
 
@@ -212,4 +212,4 @@ OpenFaaS is hosted by OpenFaaS Ltd (registration: 11076587), a company which als
 
 View a selection of end-user companies who have given permission to have their logo listed at [openfaas.com](https://www.openfaas.com/).
 
-If you're using OpenFaaS please let us know [on this thread](https://github.com/openfaas/faas/issues/776). In addition, you are welcome to request to have your logo listed on the homepage. Thank you for your support.
+If you're using OpenFaaS please let us know [on this thread](https://github.com/innoobijr/faas/issues/776). In addition, you are welcome to request to have your logo listed on the homepage. Thank you for your support.

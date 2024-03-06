@@ -27,7 +27,7 @@ See how Community Edition (CE) which you are using now, compares to OpenFaaS Pro
 
 Tell us more:
 
-* Send a comment, use-case, case-study, or let us know about your usage: [GitHub issue #776](https://github.com/openfaas/faas/issues/776)
+* Send a comment, use-case, case-study, or let us know about your usage: [GitHub issue #776](https://github.com/innoobijr/faas/issues/776)
 * See companies which have also given written permission to use logo: [openfaas.com](https://www.openfaas.com/)
 
 ## Adopters list (alphabetical)
@@ -156,7 +156,7 @@ Tell us more:
 
 * [smashHit](https://smashhit.eu) - smashHit is a project funded by the European Union's Horizon 2020 research and innovation programme under grant agreement No. 871477. The objective of smashHit is to assure trusted and secure sharing of data streams from both personal and industrial platforms, needed to build sectorial and cross-sectorial services, by establishing a Framework for processing of data owner consent and legal rules (GDPR) and effective contracting, as well as joint security and privacy-preserving mechanisms. We are utilising OpenFaaS to support the need for scalable processing through the use of functions.
 
-* [Sprucee](https://spruce.casa) - We use [faasd](https://github.com/openfaas/faasd) as part of our base Encryption as a Service platform which were manually managed docker containers. As NATS based platform we were able to scale to every size we want, but deployment takes many labor time as we need to deal with OS level and customer limitations. Now we can use "faas install/up" to accomplish 80% of deployment effort.
+* [Sprucee](https://spruce.casa) - We use [faasd](https://github.com/innoobijr/faasd) as part of our base Encryption as a Service platform which were manually managed docker containers. As NATS based platform we were able to scale to every size we want, but deployment takes many labor time as we need to deal with OS level and customer limitations. Now we can use "faas install/up" to accomplish 80% of deployment effort.
 
 * [SURF](https://www.surf.nl) - [The Green Village](https://www.thegreenvillage.org/) is a living lab at Delft University of Technology. It is an experimental, real-life setting with the goal to accelerate innovation for a sustainable future. [SURF](https://www.surf.nl/), a cooperative association of Dutch educational and research institutions providing digital infrastructure and ICT services, has developed a [digital platform](https://youtu.be/_WYVzoBuWKk) for The Green Village that uses OpenFaaS to classify and sort incoming sensor data at scale.
 

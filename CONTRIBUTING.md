@@ -61,7 +61,7 @@ Please follow [responsible disclosure practices](https://en.wikipedia.org/wiki/R
 
 ### I've found a typo
 
-* A Pull Request is not necessary. Raise an [Issue](https://github.com/openfaas/faas/issues) and we'll fix it as soon as we can. 
+* A Pull Request is not necessary. Raise an [Issue](https://github.com/innoobijr/faas/issues) and we'll fix it as soon as we can. 
 
 ### I have a (great) idea
 
@@ -384,7 +384,7 @@ This project is written in Golang but many of the community contributions so far
 
 ### Community file
 
-The [community.md](https://github.com/openfaas/faas/blob/master/community.md) file highlights blogs, talks and code repos with example FaaS functions and usages. Please send a Pull Request if you are doing something cool with OpenFaaS.
+The [community.md](https://github.com/innoobijr/faas/blob/master/community.md) file highlights blogs, talks and code repos with example FaaS functions and usages. Please send a Pull Request if you are doing something cool with OpenFaaS.
 
 ### Roadmap
 
@@ -394,7 +394,7 @@ See also: [OpenFaaS Pro](https://docs.openfaas.com/openfaas-pro/introduction/)
 
 OpenFaaS Community Edition (CE) is licensed under the MIT License.
 
-OpenFaaS Standard and OpenFaaS for Enterprises are proprietary and binaries are licensed under the commercial [OpenFaaS Pro EULA](https://github.com/openfaas/faas/blob/master/pro/EULA.md).
+OpenFaaS Standard and OpenFaaS for Enterprises are proprietary and binaries are licensed under the commercial [OpenFaaS Pro EULA](https://github.com/innoobijr/faas/blob/master/pro/EULA.md).
 
 ### Copyright notice
 

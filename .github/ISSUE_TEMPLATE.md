@@ -9,7 +9,7 @@
 
 ## Who is this for?
 
-What company is this for? Are you listed in the [ADOPTERS.md](https://github.com/openfaas/faas/blob/master/ADOPTERS.md) file?
+What company is this for? Are you listed in the [ADOPTERS.md](https://github.com/innoobijr/faas/blob/master/ADOPTERS.md) file?
 
 <!--- Provide a general summary of the issue in the Title above -->
 ## Expected Behaviour
@@ -56,7 +56,7 @@ Check at: https://github.com/sponsors/openfaas
 
 * Docker version `docker version` (e.g. Docker 17.0.05 ):
 
-* Are you using OpenFaaS on Kubernetes or [faasd](https://github.com/openfaas/faasd)?
+* Are you using OpenFaaS on Kubernetes or [faasd](https://github.com/innoobijr/faasd)?
 
 * Operating System and version (e.g. Linux, Windows, MacOS):
 

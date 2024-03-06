@@ -10,9 +10,9 @@ import (
 	"net/http"
 	"net/http/httptest"
 
-	providerTypes "github.com/openfaas/faas-provider/types"
-	"github.com/openfaas/faas/gateway/types"
-	"github.com/openfaas/faas/gateway/version"
+	providerTypes "github.com/innoobijr/faas-provider/types"
+	"github.com/innoobijr/faas/gateway/types"
+	"github.com/innoobijr/faas/gateway/version"
 )
 
 // MakeInfoHandler is responsible for display component version information

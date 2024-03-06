@@ -7,8 +7,8 @@ import (
 	"strings"
 	"testing"
 
-	middleware "github.com/openfaas/faas/gateway/pkg/middleware"
-	"github.com/openfaas/faas/gateway/scaling"
+	middleware "github.com/innoobijr/faas/gateway/pkg/middleware"
+	"github.com/innoobijr/faas/gateway/scaling"
 )
 
 const fallbackValue = 120

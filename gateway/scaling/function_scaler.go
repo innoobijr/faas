@@ -5,7 +5,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/openfaas/faas/gateway/types"
+	"github.com/innoobijr/faas/gateway/types"
 	"golang.org/x/sync/singleflight"
 )
 

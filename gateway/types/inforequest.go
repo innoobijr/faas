@@ -1,6 +1,6 @@
 package types
 
-import providerTypes "github.com/openfaas/faas-provider/types"
+import providerTypes "github.com/innoobijr/faas-provider/types"
 
 // Platform architecture the gateway is running on
 var Arch string

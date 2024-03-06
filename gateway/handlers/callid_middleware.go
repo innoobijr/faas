@@ -9,7 +9,7 @@ import (
 	"time"
 
 	"github.com/docker/distribution/uuid"
-	"github.com/openfaas/faas/gateway/version"
+	"github.com/innoobijr/faas/gateway/version"
 )
 
 // MakeCallIDMiddleware middleware tags a request with a uid

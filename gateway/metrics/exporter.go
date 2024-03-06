@@ -16,8 +16,8 @@ import (
 
 	"log"
 
-	"github.com/openfaas/faas-provider/auth"
-	types "github.com/openfaas/faas-provider/types"
+	"github.com/innoobijr/faas-provider/auth"
+	types "github.com/innoobijr/faas-provider/types"
 	"github.com/prometheus/client_golang/prometheus"
 )
 

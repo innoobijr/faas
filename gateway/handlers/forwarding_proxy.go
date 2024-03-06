@@ -16,9 +16,9 @@ import (
 	"sync"
 	"time"
 
-	fhttputil "github.com/openfaas/faas-provider/httputil"
-	"github.com/openfaas/faas/gateway/pkg/middleware"
-	"github.com/openfaas/faas/gateway/types"
+	fhttputil "github.com/innoobijr/faas-provider/httputil"
+	"github.com/innoobijr/faas/gateway/pkg/middleware"
+	"github.com/innoobijr/faas/gateway/types"
 )
 
 // MakeForwardingProxyHandler create a handler which forwards HTTP requests

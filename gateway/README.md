@@ -19,11 +19,11 @@ In summary:
 
 ## Function Providers
 
-Providers for functions can be written using the [faas-provider](https://github.com/openfaas/faas-provider/) interface in Golang which provides the REST API for interacting with the gateway.
+Providers for functions can be written using the [faas-provider](https://github.com/innoobijr/faas-provider/) interface in Golang which provides the REST API for interacting with the gateway.
 
 ## REST API
 
-Swagger docs: https://github.com/openfaas/faas/tree/master/api-docs
+Swagger docs: https://github.com/innoobijr/faas/tree/master/api-docs
 
 ## CORS
 
@@ -39,7 +39,7 @@ View the source in the [assets](./assets/) folder.
 
 ### Function Store
 
-The Function Store is rendered through a static JSON file served by the GitHub RAW CDN. The Function Store can also be used via the [OpenFaaS CLI](https://github.com/openfaas/faas-cli).
+The Function Store is rendered through a static JSON file served by the GitHub RAW CDN. The Function Store can also be used via the [OpenFaaS CLI](https://github.com/innoobijr/faas-cli).
 
 See the [openfaas/store](https://github.com/openfaas/store) repo for more.
 
@@ -68,7 +68,7 @@ The gateway can be configured through the following environment variables:
 |------------------------|--------------|
 | `write_timeout`        | HTTP timeout for writing a response body from your function (in seconds). Default: `8`  |
 | `read_timeout`         | HTTP timeout for reading the payload from the client caller (in seconds). Default: `8` |
-| `functions_provider_url`             | URL of upstream [functions provider](https://github.com/openfaas/faas-provider/) - i.e. Swarm, Kubernetes, Nomad etc  |
+| `functions_provider_url`             | URL of upstream [functions provider](https://github.com/innoobijr/faas-provider/) - i.e. Swarm, Kubernetes, Nomad etc  |
 | `logs_provider_url` | URL of the upstream function logs api provider, optional, when empty the `functions_provider_url` is used |
 | `faas_nats_address`          | The host at which NATS Streaming can be reached. Required for asynchronous mode |
 | `faas_nats_port`    | The port at which NATS Streaming can be reached. Required for asynchronous mode |

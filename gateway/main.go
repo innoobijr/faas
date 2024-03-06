@@ -10,14 +10,14 @@ import (
 	"time"
 
 	"github.com/gorilla/mux"
-	"github.com/openfaas/faas-provider/auth"
-	"github.com/openfaas/faas/gateway/handlers"
-	"github.com/openfaas/faas/gateway/metrics"
-	"github.com/openfaas/faas/gateway/pkg/middleware"
-	"github.com/openfaas/faas/gateway/plugin"
-	"github.com/openfaas/faas/gateway/scaling"
-	"github.com/openfaas/faas/gateway/types"
-	"github.com/openfaas/faas/gateway/version"
+	"github.com/innoobijr/faas-provider/auth"
+	"github.com/innoobijr/faas/gateway/handlers"
+	"github.com/innoobijr/faas/gateway/metrics"
+	"github.com/innoobijr/faas/gateway/pkg/middleware"
+	"github.com/innoobijr/faas/gateway/plugin"
+	"github.com/innoobijr/faas/gateway/scaling"
+	"github.com/innoobijr/faas/gateway/types"
+	"github.com/innoobijr/faas/gateway/version"
 	natsHandler "github.com/openfaas/nats-queue-worker/handler"
 )
 

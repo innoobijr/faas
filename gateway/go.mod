@@ -1,11 +1,11 @@
-module github.com/openfaas/faas/gateway
+module github.com/innoobijr/faas/gateway
 
 go 1.21
 
 require (
 	github.com/docker/distribution v2.8.3+incompatible
 	github.com/gorilla/mux v1.8.0
-	github.com/openfaas/faas-provider v0.25.2
+	github.com/innoobijr/faas-provider v0.25.2
 	github.com/openfaas/nats-queue-worker v0.0.0-20231023101743-fa54e89c9db2
 	github.com/prometheus/client_golang v1.17.0
 	github.com/prometheus/client_model v0.5.0
@@ -13,7 +13,7 @@ require (
 	golang.org/x/sync v0.4.0
 )
 
-// replace github.com/openfaas/faas-provider => ../../faas-provider
+// replace github.com/innoobijr/faas-provider => ../../faas-provider
 
 require (
 	github.com/beorn7/perks v1.0.1 // indirect

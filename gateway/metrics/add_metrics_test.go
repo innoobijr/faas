@@ -8,7 +8,7 @@ import (
 	"strings"
 	"testing"
 
-	types "github.com/openfaas/faas-provider/types"
+	types "github.com/innoobijr/faas-provider/types"
 )
 
 type FakePrometheusQueryFetcher struct {

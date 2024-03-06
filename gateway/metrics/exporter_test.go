@@ -3,7 +3,7 @@ package metrics
 import (
 	"testing"
 
-	types "github.com/openfaas/faas-provider/types"
+	types "github.com/innoobijr/faas-provider/types"
 	"github.com/prometheus/client_golang/prometheus"
 	dto "github.com/prometheus/client_model/go"
 )

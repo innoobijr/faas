@@ -12,11 +12,11 @@ import (
 	"strings"
 
 	"github.com/gorilla/mux"
-	ftypes "github.com/openfaas/faas-provider/types"
-	"github.com/openfaas/faas/gateway/metrics"
-	"github.com/openfaas/faas/gateway/pkg/middleware"
+	ftypes "github.com/innoobijr/faas-provider/types"
+	"github.com/innoobijr/faas/gateway/metrics"
+	"github.com/innoobijr/faas/gateway/pkg/middleware"
 
-	"github.com/openfaas/faas/gateway/scaling"
+	"github.com/innoobijr/faas/gateway/scaling"
 )
 
 // MakeQueuedProxy accepts work onto a queue

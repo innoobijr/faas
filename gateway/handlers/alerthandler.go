@@ -11,9 +11,9 @@ import (
 	"math"
 	"net/http"
 
-	"github.com/openfaas/faas/gateway/pkg/middleware"
-	"github.com/openfaas/faas/gateway/requests"
-	"github.com/openfaas/faas/gateway/scaling"
+	"github.com/innoobijr/faas/gateway/pkg/middleware"
+	"github.com/innoobijr/faas/gateway/requests"
+	"github.com/innoobijr/faas/gateway/scaling"
 )
 
 // MakeAlertHandler handles alerts from Prometheus Alertmanager

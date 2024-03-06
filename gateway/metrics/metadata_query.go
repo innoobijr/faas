@@ -1,6 +1,6 @@
 package metrics
 
-import "github.com/openfaas/faas-provider/auth"
+import "github.com/innoobijr/faas-provider/auth"
 
 type MetadataQuery struct {
 	Credentials *auth.BasicAuthCredentials

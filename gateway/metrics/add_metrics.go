@@ -10,7 +10,7 @@ import (
 	"net/url"
 	"strconv"
 
-	types "github.com/openfaas/faas-provider/types"
+	types "github.com/innoobijr/faas-provider/types"
 )
 
 // AddMetricsHandler wraps a http.HandlerFunc with Prometheus metrics

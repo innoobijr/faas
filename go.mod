@@ -1,3 +1,3 @@
-module github.com/openfaas/faas
+module github.com/innoobijr/faas
 
 go 1.20

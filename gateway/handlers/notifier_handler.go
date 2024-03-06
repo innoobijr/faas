@@ -7,7 +7,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/openfaas/faas-provider/httputil"
+	"github.com/innoobijr/faas-provider/httputil"
 )
 
 // MakeNotifierWrapper wraps a http.HandlerFunc in an interceptor to pass to HTTPNotifier

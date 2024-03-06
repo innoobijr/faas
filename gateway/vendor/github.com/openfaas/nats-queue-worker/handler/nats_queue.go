@@ -8,7 +8,7 @@ import (
 	"time"
 
 	stan "github.com/nats-io/stan.go"
-	ftypes "github.com/openfaas/faas-provider/types"
+	ftypes "github.com/innoobijr/faas-provider/types"
 )
 
 // NATSQueue queue for work
