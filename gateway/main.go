@@ -18,7 +18,7 @@ import (
 	"github.com/innoobijr/faas/gateway/scaling"
 	"github.com/innoobijr/faas/gateway/types"
 	"github.com/innoobijr/faas/gateway/version"
-	natsHandler "github.com/openfaas/nats-queue-worker/handler"
+	natsHandler "github.com/innoobijr/nats-queue-worker/handler"
 )
 
 // NameExpression for a function / service
